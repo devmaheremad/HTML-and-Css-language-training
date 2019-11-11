@@ -22,7 +22,7 @@ body
 {
     height: 450px;
     position: relative;
-    background: url("file:///D:/coding%20pic/blue-black-digital-binary-technology-hero-header.jpg") no-repeat top center;
+    background: url("../imgs/header.jpg") no-repeat top center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
